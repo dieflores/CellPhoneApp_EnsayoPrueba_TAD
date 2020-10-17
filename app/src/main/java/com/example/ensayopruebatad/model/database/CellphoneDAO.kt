@@ -1,4 +1,4 @@
-package com.example.ensayopruebatad.database
+package com.example.ensayopruebatad.model.database
 
 import androidx.lifecycle.LiveData
 import androidx.room.Dao

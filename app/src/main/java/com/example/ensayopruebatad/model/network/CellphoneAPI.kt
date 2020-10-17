@@ -1,6 +1,6 @@
-package com.example.ensayopruebatad.network
+package com.example.ensayopruebatad.model.network
 
-import com.example.ensayopruebatad.pojo.CellphoneAppItem
+import com.example.ensayopruebatad.model.pojo.CellphoneAppItem
 import retrofit2.Response
 import retrofit2.http.GET
 

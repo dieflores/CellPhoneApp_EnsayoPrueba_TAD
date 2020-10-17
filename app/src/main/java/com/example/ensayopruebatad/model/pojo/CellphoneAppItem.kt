@@ -1,4 +1,4 @@
-package com.example.ensayopruebatad.pojo
+package com.example.ensayopruebatad.model.pojo
 
 
 import com.google.gson.annotations.SerializedName
